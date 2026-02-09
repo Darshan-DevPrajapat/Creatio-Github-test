@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e3782f82-401d-49c1-87ec-8479564c62f6",
+    "Name": "UsrGit_Detail",
+    "ModifiedOnUtc": "\/Date(1770626105000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Git detail",
+    "DependsOn": []
+  }
+}

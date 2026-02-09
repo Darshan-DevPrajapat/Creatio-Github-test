@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "33441184-a8c7-436a-b246-d17fba691738",
+    "Name": "UsrGit_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1770626105000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Git mobile list page",
+    "DependsOn": []
+  }
+}

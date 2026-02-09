@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "97eb725e-1820-41d1-ae5d-0226330dae79",
+    "Name": "UsrGit_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1770626105000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Git mobile form page",
+    "DependsOn": []
+  }
+}

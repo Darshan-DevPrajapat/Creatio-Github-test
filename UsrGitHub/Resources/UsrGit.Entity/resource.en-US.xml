@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Git" />
+			<Item Name="Columns.UsrCheckbox.Caption" Value="Checkbox" />
+			<Item Name="Columns.UsrDate.Caption" Value="Date" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Number" />
+			<Item Name="Columns.UsrText.Caption" Value="Text" />
+		</Items>
+	</Group>
+</Resources>

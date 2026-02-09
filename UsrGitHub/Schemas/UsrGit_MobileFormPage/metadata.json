@@ -1,0 +1,10 @@
+= MetaData.Schema.UId "97eb725e-1820-41d1-ae5d-0226330dae79"
+= MetaData.Schema.A2 "UsrGit_MobileFormPage"
+= MetaData.Schema.A5 "d484d861-d8e5-4a3f-84ad-1d9256189431"
+~ MetaData.Schema.B2 ["cb1b4b87-50bc-4731-9c36-17f2eb7b9e9a","d9ef45c8-d084-4f5c-83e0-cf112b673b5d","bcf930d9-5bbb-472f-bb27-93a72e176c80","1d118a81-5466-4fb8-a35c-90738c3370da"]
+= MetaData.Schema.B6 "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a"
+= MetaData.Schema.HD1 "019c694a-1a3b-4812-b2e5-219b326061ae"
+= MetaData.Schema.HD6 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

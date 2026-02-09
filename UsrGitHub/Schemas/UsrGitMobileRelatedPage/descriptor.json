@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a34b3849-30e2-4b24-87eb-1dfa2a7c4fe3",
+    "Name": "UsrGitMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1770626105000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Git (Mobile page settings)",
+    "DependsOn": []
+  }
+}

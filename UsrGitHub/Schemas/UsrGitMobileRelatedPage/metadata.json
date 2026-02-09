@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "a34b3849-30e2-4b24-87eb-1dfa2a7c4fe3",
+      "A2": "UsrGitMobileRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "fdaea57f-678e-4dfa-9aba-19780c9595bb",
+      "AD2": "EntitySchemaManager",
+      "AD3": "MobileRelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "b08db302-e918-43a7-9839-b1b0387dca50",
+            "PageSchemaUId": "97eb725e-1820-41d1-ae5d-0226330dae79",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

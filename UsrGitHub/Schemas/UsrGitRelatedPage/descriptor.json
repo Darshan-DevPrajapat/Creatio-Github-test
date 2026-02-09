@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e636f5f7-9dfd-4a49-a6a6-f24ec7efcad9",
+    "Name": "UsrGitRelatedPage",
+    "ModifiedOnUtc": "\/Date(1770626105000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Git (Page settings)",
+    "DependsOn": []
+  }
+}
