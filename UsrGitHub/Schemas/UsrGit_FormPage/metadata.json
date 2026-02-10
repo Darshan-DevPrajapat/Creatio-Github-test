@@ -1,6 +1,13 @@
 = MetaData.Schema.UId "0cfea4aa-44f0-4c29-96dd-ed17f7714979"
 = MetaData.Schema.A2 "UsrGit_FormPage"
 = MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "cae761ad-9519-9b6f-2663-68ebef2ee6e5",
+  "A2": "addRecord_zka5gr0_caption",
+  "A3": "0cfea4aa-44f0-4c29-96dd-ed17f7714979",
+  "A4": "0cfea4aa-44f0-4c29-96dd-ed17f7714979",
+  "A5": "87e26eca-539c-403c-ab75-0e3e7470cfb6"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "0cfea4aa-44f0-4c29-96dd-ed17f7714979"
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "87e26eca-539c-403c-ab75-0e3e7470cfb6"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "0cfea4aa-44f0-4c29-96dd-ed17f7714979"
@@ -28,6 +35,7 @@
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "0cfea4aa-44f0-4c29-96dd-ed17f7714979"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "87e26eca-539c-403c-ab75-0e3e7470cfb6"
 ~ MetaData.Schema.B2 [
+  "cae761ad-9519-9b6f-2663-68ebef2ee6e5",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
@@ -45,7 +53,7 @@
 = MetaData.Schema.B6 "dcc7f255-69af-449d-a3c2-3b2ed6575805"
 = MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
 + MetaData.Schema.HD15 1
-= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
 - MetaData.Schema.B7
 - MetaData.Schema.HD12
 + MetaData.Schema.B7 false

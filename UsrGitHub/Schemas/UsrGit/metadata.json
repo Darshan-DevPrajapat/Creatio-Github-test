@@ -61,6 +61,19 @@
   "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
   "E25": true
 }
++ MetaData.Schema.D2 {
+  "UId": "8bbc68a1-c051-18c6-2b4b-190d6169d8ee",
+  "A2": "UsrCaseLookup",
+  "A3": "fdaea57f-678e-4dfa-9aba-19780c9595bb",
+  "A4": "fdaea57f-678e-4dfa-9aba-19780c9595bb",
+  "A5": "87e26eca-539c-403c-ab75-0e3e7470cfb6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "117d32f9-8275-4534-8411-1c66115ce9cd",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCaseLookupId",
+  "E18": "UsrCaseLookupNumber"
+}
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
   "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -72,7 +85,8 @@
   "bd92ecba-6448-840e-8ae5-36ec9b802299",
   "2fa1d0b0-8b17-23a2-3cb3-b6d81fc783fa",
   "1f49e5fd-828b-1dc7-7b4c-4dfbe7cd349a",
-  "13c716ca-a04d-e1b1-91aa-415700f6e732"
+  "13c716ca-a04d-e1b1-91aa-415700f6e732",
+  "8bbc68a1-c051-18c6-2b4b-190d6169d8ee"
 ]
 = MetaData.Schema.D20.A2 "UsrGitEvents"
 + MetaData.Schema.D20.FA1 false

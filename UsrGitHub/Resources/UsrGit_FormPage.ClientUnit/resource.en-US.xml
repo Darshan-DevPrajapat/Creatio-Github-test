@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Git form page" />
+			<Item Name="LocalizableStrings.addRecord_zka5gr0_caption.Value" Value="Add new" />
 		</Items>
 	</Group>
 </Resources>

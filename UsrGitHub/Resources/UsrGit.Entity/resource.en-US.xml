@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Git" />
+			<Item Name="Columns.UsrCaseLookup.Caption" Value="Case lookup" />
 			<Item Name="Columns.UsrCheckbox.Caption" Value="Checkbox" />
 			<Item Name="Columns.UsrDate.Caption" Value="Date" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
