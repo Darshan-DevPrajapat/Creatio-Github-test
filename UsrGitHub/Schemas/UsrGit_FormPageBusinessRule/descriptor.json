@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c8abe9c-0e5e-494b-b391-e4059b3aa04a",
+    "Name": "UsrGit_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1770703893000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Git form page (Business rules)",
+    "DependsOn": []
+  }
+}
