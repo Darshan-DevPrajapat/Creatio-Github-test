@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\az3-x002-web01\\App\\180524-crm-bundle\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrMobile\\Files\\UsrMobile.csproj": {}
+  },
+  "projects": {
+    "\\\\az3-x002-web01\\App\\180524-crm-bundle\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrMobile\\Files\\UsrMobile.csproj": {
+      "version": "8.3.2.4166",
+      "restore": {
+        "projectUniqueName": "\\\\az3-x002-web01\\App\\180524-crm-bundle\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrMobile\\Files\\UsrMobile.csproj",
+        "projectName": "UsrMobile",
+        "projectPath": "\\\\az3-x002-web01\\App\\180524-crm-bundle\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrMobile\\Files\\UsrMobile.csproj",
+        "packagesPath": "C:\\Users\\svc-teamcity-service\\.nuget\\packages\\",
+        "outputPath": "\\\\az3-x002-web01\\App\\180524-crm-bundle\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrMobile\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\svc-teamcity-service\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

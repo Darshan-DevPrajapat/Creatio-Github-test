@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Workoo mobile form page" />
+			<Item Name="LocalizableStrings.Button_x42vq3j_caption.Value" Value="Submit" />
+		</Items>
+	</Group>
+</Resources>

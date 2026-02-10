@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Column Details" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Column Details" />
+			<Item Name="LocalizableStrings.addRecord_f0md5uj_caption.Value" Value="Add new" />
+			<Item Name="Parameters.8c68dc5b-3a27-bd0e-260b-34ae289c5d74.Caption" Value="Select Object" />
+			<Item Name="Parameters.b85fbc6a-e4a1-72c3-1628-699aa65d511e.Caption" Value="Select Object" />
+		</Items>
+	</Group>
+</Resources>

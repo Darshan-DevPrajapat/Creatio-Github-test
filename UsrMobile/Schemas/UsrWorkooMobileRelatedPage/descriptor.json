@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e3fab75e-c853-49b1-9b1f-0d100133c17c",
+    "Name": "UsrWorkooMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1767937394000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Workoo (Mobile page settings)",
+    "DependsOn": []
+  }
+}

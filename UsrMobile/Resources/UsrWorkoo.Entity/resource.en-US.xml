@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Workoo" />
+			<Item Name="Columns.UsrCode.Caption" Value="Object Name" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.Usrdesc.Caption" Value="desc" />
+			<Item Name="Columns.Usrduration.Caption" Value="duration" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.081d624c-83db-0031-d1d9-9e84d4d1d092.Caption" Value="Set values: duration" />
+			<Item Name="Caption" Value="Workoo (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

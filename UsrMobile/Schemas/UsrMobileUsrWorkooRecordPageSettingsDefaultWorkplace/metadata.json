@@ -1,0 +1,46 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+      "A2": "UsrMobileUsrWorkooRecordPageSettingsDefaultWorkplace",
+      "A5": "f4cea815-b5cd-4b3d-ae47-099332b5f9fb",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "7a28809b-9ab4-471a-8903-8fb1bee0533a",
+          "A2": "SocialMessageDetailCaptionUsrWorkoo_caption",
+          "A3": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+          "A4": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+          "A5": "f4cea815-b5cd-4b3d-ae47-099332b5f9fb"
+        },
+        {
+          "UId": "06ce0f3a-a1d2-4523-90f3-d933a822897a",
+          "A2": "AttachmentsDetailCaptionUsrWorkoo_caption",
+          "A3": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+          "A4": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+          "A5": "f4cea815-b5cd-4b3d-ae47-099332b5f9fb"
+        },
+        {
+          "UId": "e9790576-9ec6-4ff3-806f-458e6e3f87b5",
+          "A2": "primaryColumnSetUsrWorkoo_caption",
+          "A3": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+          "A4": "e2080f61-1de7-46bc-98c0-b5fbe75c5223",
+          "A5": "f4cea815-b5cd-4b3d-ae47-099332b5f9fb"
+        }
+      ],
+      "B3": [],
+      "B6": "c0c69145-7bb3-47c1-8b7c-a209e2793c48",
+      "B8": "8.3.2.4166",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD2": "null",
+      "HD6": "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.NONE,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schemaDifferences:function(){{\n{1}\n}}}};}});",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": [],
+      "HD9": "null",
+      "HD10": "null"
+    }
+  }
+}

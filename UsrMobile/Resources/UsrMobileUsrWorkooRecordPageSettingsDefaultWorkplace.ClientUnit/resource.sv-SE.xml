@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrMobileUsrWorkooRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AttachmentsDetailCaptionUsrWorkoo_caption.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.SocialMessageDetailCaptionUsrWorkoo_caption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.primaryColumnSetUsrWorkoo_caption.Value" Value="General information" />
+		</Items>
+	</Group>
+</Resources>

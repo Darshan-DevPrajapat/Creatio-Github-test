@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "44a77b1e-07a4-4c5f-9d1e-d65497ad856d",
+    "Name": "UsrWorkooRelatedPage",
+    "ModifiedOnUtc": "\/Date(1767937394000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Workoo (Page settings)",
+    "DependsOn": []
+  }
+}

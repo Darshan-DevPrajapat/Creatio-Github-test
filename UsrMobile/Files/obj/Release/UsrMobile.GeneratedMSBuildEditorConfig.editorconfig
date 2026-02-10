@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = UsrMobile
+build_property.ProjectDir = \\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

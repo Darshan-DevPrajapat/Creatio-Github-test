@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e3205bbb-aad7-43e6-b586-3eeae6f22fe9",
+    "Name": "UsrWorkoo_ListPage",
+    "ModifiedOnUtc": "\/Date(1767937394000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Workoo list page",
+    "DependsOn": []
+  }
+}

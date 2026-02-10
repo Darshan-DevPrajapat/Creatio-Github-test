@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6430ea30-5223-43be-ad7b-02baaf2b81fe",
+    "Name": "UsrWorkoo_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1768210515000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Workoo mobile form page",
+    "DependsOn": []
+  }
+}

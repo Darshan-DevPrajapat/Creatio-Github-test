@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "221ce894-7b21-43e9-b0ad-19f755f1ca67",
+      "A2": "UsrMiniPage_ShowColumnsAppearanceSettings",
+      "A5": "f660dcb9-17c4-416d-8f1d-b217c40320af",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "c0c69145-7bb3-47c1-8b7c-a209e2793c48",
+      "B8": "8.3.2.4166",
+      "AD1": "71cfcf18-43c8-4298-b52e-e5e127bb079e",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "AppearanceSettings",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "modalSettings": {
+    "size": 3
+  }
+}
+    }
+  }
+}

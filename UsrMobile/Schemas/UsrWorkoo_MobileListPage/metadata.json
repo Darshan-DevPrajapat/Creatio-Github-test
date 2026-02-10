@@ -1,0 +1,19 @@
+= MetaData.Schema.UId "4a6d2b0b-4c0c-46d9-9a59-08be393c5d91"
+= MetaData.Schema.A2 "UsrWorkoo_MobileListPage"
+= MetaData.Schema.A5 "9c359e6d-99c4-4e08-99ff-3c2bb012769f"
+= MetaData.Schema.B2.["3206c30a-0579-02a2-ea55-5035855f8421"].A4 "4a6d2b0b-4c0c-46d9-9a59-08be393c5d91"
+= MetaData.Schema.B2.["3206c30a-0579-02a2-ea55-5035855f8421"].A5 "f660dcb9-17c4-416d-8f1d-b217c40320af"
+= MetaData.Schema.B2.["c6745911-cd33-9402-e379-6c0afa83c7ac"].A4 "4a6d2b0b-4c0c-46d9-9a59-08be393c5d91"
+= MetaData.Schema.B2.["c6745911-cd33-9402-e379-6c0afa83c7ac"].A5 "f660dcb9-17c4-416d-8f1d-b217c40320af"
+= MetaData.Schema.B2.["9a4ca6cb-b106-4ca1-9c21-5ed2f3d6f941"].A4 "4a6d2b0b-4c0c-46d9-9a59-08be393c5d91"
+= MetaData.Schema.B2.["9a4ca6cb-b106-4ca1-9c21-5ed2f3d6f941"].A5 "f660dcb9-17c4-416d-8f1d-b217c40320af"
+~ MetaData.Schema.B2 [
+  "3206c30a-0579-02a2-ea55-5035855f8421",
+  "c6745911-cd33-9402-e379-6c0afa83c7ac",
+  "9a4ca6cb-b106-4ca1-9c21-5ed2f3d6f941"
+]
+= MetaData.Schema.B6 "c0c69145-7bb3-47c1-8b7c-a209e2793c48"
+= MetaData.Schema.HD1 "011e7dda-a763-4535-9b9a-e09eddd047be"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

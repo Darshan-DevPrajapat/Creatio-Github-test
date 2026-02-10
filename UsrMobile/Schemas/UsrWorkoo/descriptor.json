@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc89a32f-c093-4e23-809e-264291ff3e7b",
+    "Name": "UsrWorkoo",
+    "ModifiedOnUtc": "\/Date(1768900748000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Workoo",
+    "DependsOn": []
+  }
+}

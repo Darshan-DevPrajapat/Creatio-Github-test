@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "71cfcf18-43c8-4298-b52e-e5e127bb079e",
+    "Name": "UsrMiniPage_ShowColumns",
+    "ModifiedOnUtc": "\/Date(1770016371000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Column Details",
+    "DependsOn": []
+  }
+}

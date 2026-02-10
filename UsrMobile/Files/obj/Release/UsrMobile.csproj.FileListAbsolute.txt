@@ -1,0 +1,9 @@
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\Bin\UsrMobile.dll
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\Bin\UsrMobile.pdb
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.csproj.AssemblyReference.cache
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.GeneratedMSBuildEditorConfig.editorconfig
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.AssemblyInfoInputs.cache
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.AssemblyInfo.cs
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.csproj.CoreCompileInputs.cache
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.dll
+\\az3-x002-web01\App\180524-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMobile\Files\obj\Release\UsrMobile.pdb

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "221ce894-7b21-43e9-b0ad-19f755f1ca67",
+    "Name": "UsrMiniPage_ShowColumnsAppearanceSettings",
+    "ModifiedOnUtc": "\/Date(1770015131000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Column Details (AppearanceSettings)",
+    "DependsOn": []
+  }
+}

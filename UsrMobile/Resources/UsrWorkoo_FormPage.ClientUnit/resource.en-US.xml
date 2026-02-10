@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Workoo form page" />
+			<Item Name="LocalizableStrings.ChartWidget_7ozfp9c_series_0.Value" Value="Workoo" />
+			<Item Name="LocalizableStrings.ChartWidget_7ozfp9c_title.Value" Value="New chart" />
+			<Item Name="LocalizableStrings.TabContainer_t63m66q_caption.Value" Value="New tab" />
+			<Item Name="LocalizableStrings.addRecord_eoj797k_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_smwe478_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

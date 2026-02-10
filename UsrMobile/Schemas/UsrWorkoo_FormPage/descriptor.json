@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb79c346-3f94-4a14-8325-d2954e673ced",
+    "Name": "UsrWorkoo_FormPage",
+    "ModifiedOnUtc": "\/Date(1770625457000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Workoo form page",
+    "DependsOn": []
+  }
+}

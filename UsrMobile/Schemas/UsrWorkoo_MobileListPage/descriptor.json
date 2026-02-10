@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4a6d2b0b-4c0c-46d9-9a59-08be393c5d91",
+    "Name": "UsrWorkoo_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1767938807000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Workoo mobile list page",
+    "DependsOn": []
+  }
+}

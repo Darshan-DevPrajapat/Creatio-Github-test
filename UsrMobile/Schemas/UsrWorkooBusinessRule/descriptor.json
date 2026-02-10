@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3456dcd-4d05-4231-a596-82f245199694",
+    "Name": "UsrWorkooBusinessRule",
+    "ModifiedOnUtc": "\/Date(1767938963000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Workoo (Business rules)",
+    "DependsOn": []
+  }
+}
